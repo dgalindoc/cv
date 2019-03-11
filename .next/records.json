@@ -1,86 +1,4 @@
 {
-  "modules": {
-    "byIdentifier": {
-      "multi node_modules/next/dist/client/next": 0,
-      "css node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!sass/styles.scss 0": 1,
-      "css node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!sass/yui.scss 0": 2
-    },
-    "usedIds": {
-      "0": 0,
-      "1": 1,
-      "2": 2
-    }
-  },
-  "chunks": {
-    "byName": {
-      "commons": 0,
-      "static/runtime/webpack.js": 1,
-      "static/14NBiLJ_tox1b0srWrVph/pages/_app.js": 2,
-      "static/14NBiLJ_tox1b0srWrVph/pages/_error.js": 3,
-      "static/14NBiLJ_tox1b0srWrVph/pages/about.js": 4,
-      "static/14NBiLJ_tox1b0srWrVph/pages/day.js": 5,
-      "static/14NBiLJ_tox1b0srWrVph/pages/index.js": 6,
-      "static/runtime/main.js": 7,
-      "static/a7NHpiMIvawYEFwKTc7_R/pages/_app.js": 8,
-      "static/a7NHpiMIvawYEFwKTc7_R/pages/_error.js": 9,
-      "static/a7NHpiMIvawYEFwKTc7_R/pages/about.js": 10,
-      "static/a7NHpiMIvawYEFwKTc7_R/pages/day.js": 11,
-      "static/a7NHpiMIvawYEFwKTc7_R/pages/index.js": 12,
-      "static/tWKZl9T1WlU1uHrGG2ahC/pages/_app.js": 2,
-      "static/tWKZl9T1WlU1uHrGG2ahC/pages/_error.js": 3,
-      "static/tWKZl9T1WlU1uHrGG2ahC/pages/about.js": 4,
-      "static/tWKZl9T1WlU1uHrGG2ahC/pages/day.js": 5,
-      "static/tWKZl9T1WlU1uHrGG2ahC/pages/index.js": 6,
-      "static/TMlKXNJfS2S4cMKNKAASE/pages/_app.js": 8,
-      "static/TMlKXNJfS2S4cMKNKAASE/pages/_error.js": 9,
-      "static/TMlKXNJfS2S4cMKNKAASE/pages/about.js": 10,
-      "static/TMlKXNJfS2S4cMKNKAASE/pages/day.js": 11,
-      "static/TMlKXNJfS2S4cMKNKAASE/pages/index.js": 12,
-      "styles": 13,
-      "static/S4aLPQcp5hodLnSCbUPlJ/pages/_app.js": 2,
-      "static/S4aLPQcp5hodLnSCbUPlJ/pages/_error.js": 3,
-      "static/S4aLPQcp5hodLnSCbUPlJ/pages/about.js": 4,
-      "static/S4aLPQcp5hodLnSCbUPlJ/pages/day.js": 5,
-      "static/S4aLPQcp5hodLnSCbUPlJ/pages/index.js": 6,
-      "static/pyCP97j2H4vJwxF~aqsHl/pages/_app.js": 8,
-      "static/pyCP97j2H4vJwxF~aqsHl/pages/_error.js": 9,
-      "static/pyCP97j2H4vJwxF~aqsHl/pages/index.js": 10,
-      "static/SF9YYKzgoMQZSjIQoPygV/pages/_app.js": 2,
-      "static/SF9YYKzgoMQZSjIQoPygV/pages/_error.js": 3,
-      "static/SF9YYKzgoMQZSjIQoPygV/pages/index.js": 4,
-      "static/9sN~~SKMkjwAqIia9FbKS/pages/_app.js": 5,
-      "static/9sN~~SKMkjwAqIia9FbKS/pages/_error.js": 6,
-      "static/9sN~~SKMkjwAqIia9FbKS/pages/index.js": 8,
-      "static/D4OEQhKZPJs1Axr3aaSmw/pages/_app.js": 2,
-      "static/D4OEQhKZPJs1Axr3aaSmw/pages/_error.js": 3,
-      "static/D4OEQhKZPJs1Axr3aaSmw/pages/index.js": 4,
-      "static/O7Fvy2tra5nsj_Ee~JzYr/pages/_app.js": 5,
-      "static/O7Fvy2tra5nsj_Ee~JzYr/pages/_error.js": 6,
-      "static/O7Fvy2tra5nsj_Ee~JzYr/pages/index.js": 8,
-      "static/jX17RBef9DwP9UTivRsI5/pages/_app.js": 2,
-      "static/jX17RBef9DwP9UTivRsI5/pages/_error.js": 3,
-      "static/jX17RBef9DwP9UTivRsI5/pages/index.js": 4,
-      "static/_9wbKuFr7PXJPXSqSnkqd/pages/_app.js": 5,
-      "static/_9wbKuFr7PXJPXSqSnkqd/pages/_error.js": 6,
-      "static/_9wbKuFr7PXJPXSqSnkqd/pages/index.js": 8,
-      "static/3NbNYdIcLxkBh1VBgefdL/pages/_app.js": 2,
-      "static/3NbNYdIcLxkBh1VBgefdL/pages/_error.js": 3,
-      "static/3NbNYdIcLxkBh1VBgefdL/pages/index.js": 4,
-      "static/Q~_XH1Sesvb~tsdXzIvvZ/pages/_app.js": 5,
-      "static/Q~_XH1Sesvb~tsdXzIvvZ/pages/_error.js": 6,
-      "static/Q~_XH1Sesvb~tsdXzIvvZ/pages/index.js": 8
-    },
-    "bySource": {},
-    "usedIds": [
-      0,
-      1,
-      13,
-      5,
-      6,
-      7,
-      8
-    ]
-  },
   "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!sass/styles.scss": [
     {
       "modules": {
@@ -114,5 +32,38 @@
         ]
       }
     }
-  ]
+  ],
+  "modules": {
+    "byIdentifier": {
+      "multi node_modules/next/dist/client/next": 0,
+      "css node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!sass/styles.scss 0": 1,
+      "css node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!sass/yui.scss 0": 2
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/mxrpSjBrzUqBcbfGcHPCK/pages/_app.js": 2,
+      "static/mxrpSjBrzUqBcbfGcHPCK/pages/_error.js": 3,
+      "static/mxrpSjBrzUqBcbfGcHPCK/pages/index.js": 4,
+      "static/runtime/main.js": 5,
+      "styles": 6
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
 }
