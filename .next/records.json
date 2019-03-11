@@ -53,17 +53,20 @@
       "static/9sN~~SKMkjwAqIia9FbKS/pages/index.js": 8,
       "static/D4OEQhKZPJs1Axr3aaSmw/pages/_app.js": 2,
       "static/D4OEQhKZPJs1Axr3aaSmw/pages/_error.js": 3,
-      "static/D4OEQhKZPJs1Axr3aaSmw/pages/index.js": 4
+      "static/D4OEQhKZPJs1Axr3aaSmw/pages/index.js": 4,
+      "static/O7Fvy2tra5nsj_Ee~JzYr/pages/_app.js": 5,
+      "static/O7Fvy2tra5nsj_Ee~JzYr/pages/_error.js": 6,
+      "static/O7Fvy2tra5nsj_Ee~JzYr/pages/index.js": 8
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
       13,
-      2,
-      3,
-      4,
-      7
+      5,
+      6,
+      7,
+      8
     ]
   },
   "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!sass/styles.scss": [
