@@ -1,2 +1,13 @@
 const withSass = require('@zeit/next-sass')
-module.exports = withSass()
+const compose = require('next-compose')
+
+module.exports = compose([
+  [withSass],
+  {
+    exportPathMap: function () {
+      return {
+        '/': { page: '/' }
+      }
+    }
+  }
+])
